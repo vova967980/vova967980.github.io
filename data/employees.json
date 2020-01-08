@@ -1,0 +1,50 @@
+[
+  {
+    "fullName": "Ruth Wood",
+    "role": "Founder, CEO",
+    "contacts": [
+      "http://facebook.com",
+      "http://twitter.com",
+      "http://linkedin.com",
+      "http://google-plus.com",
+      "http://dribbble.com"
+    ],
+    "profilePicture": "./assets/images/team-1.jpg"
+  },
+  {
+    "fullName": "Timothy Reed",
+    "role": "Co-Founder, Developer",
+    "contacts": [
+      "http://facebook.com",
+      "http://twitter.com",
+      "http://linkedin.com",
+      "http://google-plus.com",
+      "http://dribbble.com"
+    ],
+    "profilePicture": "./assets/images/team-2.jpg"
+  },
+  {
+    "fullName": "Victoria Valdez",
+    "role": "UI Designer",
+    "contacts": [
+      "http://facebook.com",
+      "http://twitter.com",
+      "http://linkedin.com",
+      "http://google-plus.com",
+      "http://dribbble.com"
+    ],
+    "profilePicture": "./assets/images/team-3.jpg"
+  },
+  {
+    "fullName": "Beverly Little",
+    "role": "Data Scientist",
+    "contacts": [
+      "http://facebook.com",
+      "http://twitter.com",
+      "http://linkedin.com",
+      "http://google-plus.com",
+      "http://dribbble.com"
+    ],
+    "profilePicture": "./assets/images/team-4.jpg"
+  }
+]
